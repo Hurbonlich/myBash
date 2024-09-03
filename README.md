@@ -1,0 +1,2 @@
+# myBash
+My .bashrc config
